@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "CD4017BE") (type "KiCad") (uri "D:/PCB/Downloads") (options "") (descr ""))
+)
