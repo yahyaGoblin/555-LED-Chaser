@@ -7,7 +7,7 @@ As a first-year university student, I have not worked on any hardware-based proj
 
 <img width="570" height="533" alt="image" src="https://github.com/user-attachments/assets/30120199-9fc8-42f3-a8b9-41f514ae420a" />
 
-##🧾 Bill of Materials (BOM)
+#🧾 Bill of Materials (BOM)
 Component	Quantity	Description	Price (PKR)
 NE555 Timer IC	1	DIP-8 Timer IC	10
 CD4017 IC	1	Decade Counter IC	90
@@ -19,7 +19,7 @@ CD4017 IC	1	Decade Counter IC	90
 💰 Electronics Subtotal: 220 PKR
 <img width="697" height="827" alt="image" src="https://github.com/user-attachments/assets/3d646bdc-509c-4ded-9b3b-5a043350c260" />
 
-###🧩 PCB Cost
+#🧩 PCB Cost
 Item	Cost
 PCB (JLCPCB)	29.61 USD
 
