@@ -12,22 +12,6 @@ As a first-year university student, I have not worked on any hardware-based proj
 
 ## 🧾 Bill of Materials (BOM)
 
-| Component                   | Quantity | Description       | Price (PKR) |
-| --------------------------- | -------- | ----------------- | ----------- |
-| NE555 Timer IC              | 1        | DIP-8 IC          | 10          |
-| CD4017 IC                   | 1        | Decade Counter    | 90          |
-| 5mm LEDs (Blue)             | 25       | Through-hole LEDs | 50          |
-| 10µF Electrolytic Capacitor | 1        | 25V               | 10          |
-| 0.01µF Ceramic Capacitor    | 1        | 103 (10nF)        | 10          |
-| 10kΩ Potentiometer          | 1        | Variable resistor | 30          |
-| 2.54mm Pin Header (40 pin)  | 1        | Breakable header  | 20          |
-
-### 💰 Electronics Cost: **220 PKR**
-
-
-<img width="697" height="827" alt="image" src="https://github.com/user-attachments/assets/3d646bdc-509c-4ded-9b3b-5a043350c260" />
-
-
 ---
 
 ## 🧩 PCB Cost
