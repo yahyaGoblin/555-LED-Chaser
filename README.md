@@ -18,9 +18,10 @@ As a first-year university student, I have not worked on any hardware-based proj
 
 | Source | Cost      |
 | ------ | --------- |
-| JLCPCB | 29.61 USD |
+| Seeed Studio | 12.35 USD |
 
-<img width="1907" height="817" alt="image" src="https://github.com/user-attachments/assets/f72f393c-730f-475d-a75d-adcdc1d7169b" />
+<img width="1921" height="916" alt="image" src="https://github.com/user-attachments/assets/76c2ce5a-ebd1-4ed9-a171-4f200d58e27f" />
+
 
 ---
 
